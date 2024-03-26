@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Sara Cordeiro and I'm a software engineer junior, from Brazil!
 
 ###
 
@@ -32,11 +32,10 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/louengineer/louengineer/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="227" src="https://i.pinimg.com/originals/08/51/20/08512087e17c254a7161489c2d041581.gif"  />
+</div>
 
 ###
